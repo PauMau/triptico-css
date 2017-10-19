@@ -1,0 +1,61 @@
+header{
+	font-size: 1em;
+	background: #F4D03F;
+	color: black;
+	text-align: center;
+	width: 60.3em;
+	height: 2em;
+	padding-top: 2em;
+	padding-bottom: 1.5em;
+	border: 1px solid blue;
+}
+.izquierdo{
+	color:black;
+	float:left;
+	position: relative;
+	border: 1px solid blue;
+	background: #2980B9;
+	text-align: center;
+	width: 20em;
+	height: 30em;	
+}
+
+.centro{
+	float:left;
+	position: relative;
+	background: #16A085;
+	width: 20em;
+	height: 30em;
+	text-align: center;	
+	border: 1px solid blue;
+
+}
+.derecha{
+	background: #2980B9;
+	text-align: center;
+	border: 1px solid blue;
+	float:left;
+	position: relative;
+	width: 20em;
+	height: 30em;	
+}
+footer{
+	background: #F4D03F;
+	width: 60.3em;
+	height: 1em;
+	border: 1px solid blue;
+	position: relative;
+	top: 30.1em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+p{
+	margin: 0.8em;
+	color: black;
+}
+h3{
+	color: black;
+	text-align: center;
+	position: relative;
+	top: -24em;
+}
